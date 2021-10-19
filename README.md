@@ -1,7 +1,7 @@
-<object width="425" height="350">
-  <param name="movie" value="http://www.youtube.com/user/wwwLoveWatercom?v=BTRN1YETpyg" />
-  <param name="wmode" value="transparent" />
-  <embed src="http://www.youtube.com/user/wwwLoveWatercom?v=BTRN1YETpyg"
-         type="application/x-shockwave-flash"
-         wmode="transparent" width="425" height="350" />
-</object>
+ <div>
+      <a class="nav-link" href="https://famesite.ml/yonlendir?url=https://discord.com/users/802123277144424468" role="button" aria-haspopup="true" aria-expanded="false"><i class="bi-discord" style="color: blue;"></i> Discord</a>  
+    </div>
+
+      <div>
+      <a class="nav-link" href="https://famesite.ml/yonlendir?url=https://github.com/fame1313" role="button" aria-haspopup="true" aria-expanded="false"><i class="bi-github" style="color: white;"></i> Github</a>  
+    </div>     
