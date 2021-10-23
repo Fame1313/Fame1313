@@ -30,4 +30,5 @@
 </div>
 
 
+![Fame1313's github stats](https://github-readme-stats.vercel.app/api?username=Fame1313&count_private=true)
 
