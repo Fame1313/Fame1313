@@ -1,8 +1,1 @@
-<div align="center">
-      <a href="https://www.youtube.com/watch?v=StTqXEQ2l-Y">
-     <img 
-      src="https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg" 
-      alt="Everything Is AWESOME" 
-      style="width:100%;">
-      </a>
-    </div>
+<iframe width="500" height="300" src="https://www.youtube.com/embed/<VIDEO_ID>" frameborder="0" allowfullscreen></iframe>
